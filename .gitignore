@@ -223,4 +223,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> 3876488b3a137603cc01e28abdeac04eff33f11e
+>>>>>>> 3876488b3a137603cc01e28abdeac04eff33f11e 
+.vs/
