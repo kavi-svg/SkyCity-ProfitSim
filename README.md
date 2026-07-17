@@ -23,3 +23,6 @@ Open the URL Streamlit prints (normally `http://localhost:8501`). The first vers
 # SkyCity-ProfitSim
 ML-powered decision-support dashboard for restaurant profitability prediction and scenario optimization (SkyCity Auckland dataset).
 >>>>>>> 3876488b3a137603cc01e28abdeac04eff33f11e
+
+# RESEARCH PAPER PUBLISHED LINK ---
+https://zenodo.org/records/21405053?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjgyYjNkMWQxLWI2ZDUtNDI2Yi05ZGJlLTk5NjM2MWEwMTNlZSIsImRhdGEiOnt9LCJyYW5kb20iOiIxZWRmMjkzZDlmYTZhODcyMTQ2OWQxNWQyMDI1ZTgwNSJ9.QexEytGYuD-T8nzW6E3A_imgXN4726oHymUswT3bXPyGTICJkf4cgtXwYLTzx6VccU0-vSc_UBfRhAgiefY8aA
